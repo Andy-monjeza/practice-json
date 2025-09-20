@@ -1,0 +1,1 @@
+function name(){console.log("this is your name ")}  name();
